@@ -26,7 +26,7 @@
   - **Spring Data JPA**: 데이터베이스 상호작용을 위한 기술.
   - **Spring Security**: 엔드포인트 보호 및 사용자 인증 관리.
   - **Spring Cache**: Redis 캐시를 활용하여 반복 쿼리 최적화.
-- **H2 Database**: 개발 및 테스트를 위한 인메모리 데이터베이스.
+- **MySQL**: 데이터를 저장하고 조회할 데이터베이스.
 - **Redis**: 성능 향상을 위한 캐싱 레이어.
 - **JSoup**: HTML 파싱 및 웹 스크래핑 도구.
   -  Yahoo Finance 웹사이트에서 주식 관련 데이터를 스크래핑하는 데 사용
